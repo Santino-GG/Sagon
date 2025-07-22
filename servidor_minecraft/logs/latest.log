@@ -76,3 +76,78 @@ home/codespace/.python/current/bin/python "/workspaces/Sagon/msx (1).py"<--[HERE
 [00:36:17] [Server thread/INFO]: lobo3224 joined the game
 [00:36:17] [Server thread/INFO]: lobo3224[/127.93.121.237:43237] logged in with entity id 980 at ([world]40.5, 65.0, -17.5)
 [00:36:22] [Server thread/INFO]: Santix15 has made the advancement [Getting an Upgrade]
+[00:38:44] [Server thread/INFO]: Santix15 issued server command: /op lobo3224
+[00:38:44] [Server thread/INFO]: [Santix15: Made lobo3224 a server operator]
+[00:39:34] [Server thread/INFO]: lobo3224 issued server command: /difficulty
+[00:39:42] [Server thread/INFO]: lobo3224 issued server command: /difficulty hard
+[00:39:42] [Server thread/INFO]: [lobo3224: The difficulty has been set to Hard]
+[00:40:20] [Server thread/INFO]: Santix15 lost connection: Disconnected
+[00:40:20] [Server thread/INFO]: Santix15 left the game
+[00:40:25] [User Authenticator #2/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[00:40:27] [Server thread/INFO]: Santix15 joined the game
+[00:40:27] [Server thread/INFO]: Santix15[/127.19.82.212:57499] logged in with entity id 1854 at ([world]48.44720972921374, 65.0, 67.95707832200783)
+[00:40:59] [Server thread/INFO]: Santix15 was slain by lobo3224
+[00:40:59] [Netty Epoll Server IO #3/INFO]: Disconnecting Santix15 for sending keepalive response (10152245) out-of-order!
+[00:40:59] [Server thread/INFO]: Santix15 lost connection: Timed out
+[00:40:59] [Server thread/INFO]: Santix15 left the game
+[00:41:07] [Server thread/INFO]: lobo3224 has made the advancement [Stone Age]
+[00:41:07] [User Authenticator #2/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[00:41:08] [Server thread/INFO]: Santix15 joined the game
+[00:41:08] [Server thread/INFO]: Santix15[/127.19.82.212:58375] logged in with entity id 1933 at ([world]51.207545322948214, 64.0, 67.20949700453234)
+[00:41:10] [Server thread/INFO]: lobo3224 has made the advancement [Getting an Upgrade]
+[00:42:44] [Server thread/INFO]: lobo3224 was slain by Enderman
+[00:43:59] [Server thread/INFO]: lobo3224 was slain by Spider
+[00:44:04] [Server thread/INFO]: Santix15 has made the advancement [Monster Hunter]
+[00:44:05] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[00:44:05] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[00:44:28] [Server thread/INFO]: Santix15 was slain by Zombie
+[00:44:52] [Server thread/INFO]: lobo3224 was shot by Skeleton
+[00:45:05] [Server thread/INFO]: Santix15 lost connection: Disconnected
+[00:45:05] [Server thread/INFO]: Santix15 left the game
+[00:45:25] [Server thread/INFO]: lobo3224 was doomed to fall by Spider
+[00:45:41] [User Authenticator #3/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[00:45:43] [Server thread/INFO]: Santix15 joined the game
+[00:45:43] [Server thread/INFO]: Santix15[/127.19.82.212:56613] logged in with entity id 2531 at ([world]40.30634791584081, 66.36080000519752, 47.084376017341754)
+[00:45:44] [Server thread/INFO]: Santix15 was shot by Skeleton
+[00:45:54] [Server thread/INFO]: lobo3224 was slain by Zombie Villager
+[00:45:54] [Server thread/INFO]: lobo3224 has made the advancement [Monster Hunter]
+[00:46:22] [Server thread/INFO]: Santix15 was slain by lobo3224
+[00:46:24] [Server thread/INFO]: Santix15 was kicked due to keepalive timeout!
+[00:46:24] [Server thread/INFO]: Santix15 lost connection: Timed out
+[00:46:24] [Server thread/INFO]: Santix15 left the game
+[00:46:36] [Server thread/INFO]: Stopping the server
+[00:46:36] [Server thread/INFO]: Stopping server
+[00:46:36] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[00:46:36] [Server thread/INFO]: Saving players
+[00:46:36] [Server thread/INFO]: lobo3224 lost connection: Server closed
+[00:46:36] [Server thread/INFO]: lobo3224 left the game
+[00:46:36] [Server thread/INFO]: Saving worlds
+[00:46:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:46:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:46:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:46:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Saved 728 block chunks, 242 entity chunks, 2 poi chunks in world 'world' in 0.87s
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:46:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:46:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:46:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:46:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:46:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:46:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:46:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:46:37] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[00:46:37] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[00:46:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:46:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
